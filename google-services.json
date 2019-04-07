@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "789432695949",
+    "firebase_url": "https://attendgram.firebaseio.com",
+    "project_id": "attendgram",
+    "storage_bucket": "attendgram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789432695949:android:7bd71543f89d056a",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789432695949-7hums26m6njraqn7h15v170ub0np65f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDkyu-kh5bMwK6_eyOsa7bOfMtm9kO-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789432695949:android:351f89a315f656a3",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789432695949-7hums26m6njraqn7h15v170ub0np65f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZDkyu-kh5bMwK6_eyOsa7bOfMtm9kO-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
